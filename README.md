@@ -6,7 +6,7 @@
 
 ¡Hola, soy Ferran226 desarrollador de Front-end creativo! 👋
 
-Este repositorio es tu nuevo mejor amigo cuando necesitas inspiración para los footers de tus proyectos. Aquí encontrarás cuatro ideas emocionantes de footers, dos con un elegante estilo claro y dos con un enigmático estilo oscuro. ¿Listo para llevar tus diseños al siguiente nivel? ¡Sigue leyendo! 💼✨
+Este repositorio es tu nuevo mejor amigo cuando necesitas inspiración para los footers de tus proyectos. Aquí encontrarás cuatro ideas emocionantes de footers, optimizado para pantallas de 1200px de ancho. Dos con un elegante estilo claro y dos con un enigmático estilo oscuro. ¿Listo para llevar tus diseños al siguiente nivel? ¡Sigue leyendo! 💼✨
 
 ## Ideas de Footers
 
