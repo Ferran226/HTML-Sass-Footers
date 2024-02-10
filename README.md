@@ -17,3 +17,11 @@ Este repositorio es tu nuevo mejor amigo cuando necesitas inspiración para los 
 ### 1b. "Sunshine Footer ☀️"
 
 ![Sunshine Footer](/img/footer01b_Light.png)
+
+### 2a. "Midnight Moon Footer 🌙"
+
+![Midnight Moon Footer](/img/footer01a-Dark.png)
+
+### 2b. "Midnight Moon Footer 🌙"
+
+![Midnight Moon Footer](/img/footer01b-Dark.png)
