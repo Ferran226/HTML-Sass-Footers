@@ -39,3 +39,17 @@ Simplemente elige el footer que más te guste, ¡y comienza a integrarlo en tus 
 ¡Si tienes alguna idea para un footer adicional o alguna mejora que sugerir, no dudes en abrir un issue o enviar un pull request! Tu contribución es muy apreciada. 😊
 
 ¡Espero que encuentres estas ideas útiles y que te inspiren a crear footers sorprendentes para tus proyectos! ¡Feliz codificación! 💻✨
+
+## Trabajo Freelance 💼
+
+---
+
+Estoy disponible para trabajar en proyectos de diseño web, ya sea para particulares o empresas. Si necesitas ayuda con el diseño de tu sitio web o tienes algún proyecto en mente, ¡no dudes en contactarme en 
+<br>
+[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=ferrancolllopez%40gmail.com&labelColor=black&color=%23EA4335)](mailto:ferrancolllopez@gmail.com)
+
+
+## Licencia 📜
+
+Este proyecto está bajo la licencia [MIT] - Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
