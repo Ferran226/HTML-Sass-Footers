@@ -10,6 +10,10 @@ Este repositorio es tu nuevo mejor amigo cuando necesitas inspiración para los 
 
 ## Ideas de Footers
 
-### 1. "Sunshine Footer ☀️"
+### 1a. "Sunshine Footer ☀️"
 
 ![Sunshine Footer](/img/footer01a_Light.png)
+
+### 1b. "Sunshine Footer ☀️"
+
+![Sunshine Footer](/img/footer01b_Light.png)
