@@ -33,7 +33,7 @@ Este repositorio es tu nuevo mejor amigo cuando necesitas inspiración para los 
 ### 3. "Phone 📱"
 
 ![Footer Phone](/img/footer03-Phone.png)
-[![Static Badge](https://img.shields.io/badge/ver%20codigo-%2337383C?style=for-the-badge)](/footer03-phone/)
+[![Static Badge](https://img.shields.io/badge/ver%20codigo-%2337383C?style=for-the-badge)](/footer-phone/)
 
 
 
