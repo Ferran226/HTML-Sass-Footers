@@ -38,8 +38,12 @@ Este repositorio es tu nuevo mejor amigo cuando necesitas inspiración para los 
 ### 4. "Simple 🎆"
 
 ![Footer Simple](/img/footer04-simple.png)
-[![Static Badge](https://img.shields.io/badge/ver%20codigo-%23EE1185?style=for-the-badge)](/footer-simple)
+[![Static Badge](https://img.shields.io/badge/ver%20codigo-%23EE1185?style=for-the-badge)](/footer-simple/)
 
+### 5. "Gradient 🌈"
+
+![Footer Gradient](/img/footer05-gradient.png)
+[![Static Badge](https://img.shields.io/badge/ver%20codigo-%2331135E?style=for-the-badge)](/footer-gradient/)
 
 
 
