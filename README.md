@@ -32,6 +32,7 @@ Este repositorio es tu nuevo mejor amigo cuando necesitas inspiración para los 
 
 ### 3. "Phone 📱"
 
+![Footer Phone](/img/footer03-Phone.png)
 
 
 ## ¿Cómo Usar?
