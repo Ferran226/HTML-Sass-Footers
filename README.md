@@ -45,6 +45,10 @@ Este repositorio es tu nuevo mejor amigo cuando necesitas inspiración para los 
 ![Footer Gradient](/img/footer05-gradient.png)
 [![Static Badge](https://img.shields.io/badge/ver%20codigo-%2331135E?style=for-the-badge)](/footer-gradient/)
 
+### 6. "Social 👨‍👩‍👧‍👦"
+
+![Footer Social](/img/footer06-social.png)
+[![Static Badge](https://img.shields.io/badge/ver%20codigo-%23000000?style=for-the-badge)](/footer-social)
 
 
 ## ¿Cómo Usar?
