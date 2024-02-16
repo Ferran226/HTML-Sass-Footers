@@ -35,7 +35,11 @@ Este repositorio es tu nuevo mejor amigo cuando necesitas inspiración para los 
 ![Footer Phone](/img/%20footer03-Phone.png)
 [![Static Badge](https://img.shields.io/badge/ver%20codigo-%2337383C?style=for-the-badge)](/footer-phone/)
 
-### 4. "Simple
+### 4. "Simple 🎆"
+
+![Footer Simple](/img/footer04-simple.png)
+[![Static Badge](https://img.shields.io/badge/ver%20codigo-%23EE1185?style=for-the-badge)](/footer-simple)
+
 
 
 
