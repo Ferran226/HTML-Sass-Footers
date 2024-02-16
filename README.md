@@ -32,7 +32,7 @@ Este repositorio es tu nuevo mejor amigo cuando necesitas inspiración para los 
 
 ### 3. "Phone 📱"
 
-![footer-phone](/img/footer03-phone.png)
+![Footer Phone](/img/footer03-phone.png)
 
 ## ¿Cómo Usar?
 
